@@ -41,7 +41,8 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f3f2ef;
-  /* background-image: url("https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg"); */
+  /* background-image url("https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg"); */
+  background:linear-gradient(40deg,rgb(81, 81, 229),rgb(213, 213, 252),rgb(81, 81, 229),rgb(213, 213, 252),rgb(81, 81, 229),rgb(213, 213, 252))  ;
   z-index: -1;
 }
 
